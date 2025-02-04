@@ -37,6 +37,11 @@ from tkinter import ttk
 import subprocess
 
 
+
+
+
+
+
 class microVideo:
 
     myName = "newVideo"
